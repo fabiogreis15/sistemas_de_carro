@@ -1,0 +1,9 @@
+{
+    "Ford k": {
+        "marca": "Ford",
+        "tipo": "Hatch",
+        "ano": "2017",
+        "cor": "branco",
+        "valor": 250
+    }
+}
